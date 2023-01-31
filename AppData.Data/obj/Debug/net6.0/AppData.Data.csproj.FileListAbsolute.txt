@@ -1,0 +1,17 @@
+D:\Demos\AppData\AppData.Data\bin\Debug\net6.0\AppData.Data.deps.json
+D:\Demos\AppData\AppData.Data\bin\Debug\net6.0\AppData.Data.runtimeconfig.json
+D:\Demos\AppData\AppData.Data\bin\Debug\net6.0\AppData.Data.dll
+D:\Demos\AppData\AppData.Data\bin\Debug\net6.0\AppData.Data.pdb
+D:\Demos\AppData\AppData.Data\bin\Debug\net6.0\AppData.Domain.dll
+D:\Demos\AppData\AppData.Data\bin\Debug\net6.0\AppData.Domain.pdb
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.csproj.AssemblyReference.cache
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.AssemblyInfoInputs.cache
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.AssemblyInfo.cs
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.csproj.CoreCompileInputs.cache
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.csproj.CopyComplete
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.dll
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\refint\AppData.Data.dll
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.pdb
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\AppData.Data.genruntimeconfig.cache
+D:\Demos\AppData\AppData.Data\obj\Debug\net6.0\ref\AppData.Data.dll

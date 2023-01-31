@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppData.Application",
+    "\\AppData.Application\\Contracts",
+    "\\AppData.Application\\Contracts\\Peristence",
+    "\\AppData.ConsoleApp",
+    "\\AppData.Domain",
+    "\\AppData.Domain\\Comon"
+  ],
+  "SelectedNode": "\\AppData.Application\\Contracts\\Peristence\\IAsyncRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

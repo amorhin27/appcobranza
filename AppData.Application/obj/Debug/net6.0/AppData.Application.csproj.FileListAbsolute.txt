@@ -1,0 +1,15 @@
+D:\Demos\AppData\AppData.Application\bin\Debug\net6.0\AppData.Application.deps.json
+D:\Demos\AppData\AppData.Application\bin\Debug\net6.0\AppData.Application.dll
+D:\Demos\AppData\AppData.Application\bin\Debug\net6.0\AppData.Application.pdb
+D:\Demos\AppData\AppData.Application\bin\Debug\net6.0\AppData.Domain.dll
+D:\Demos\AppData\AppData.Application\bin\Debug\net6.0\AppData.Domain.pdb
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.csproj.AssemblyReference.cache
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.AssemblyInfoInputs.cache
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.AssemblyInfo.cs
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.csproj.CoreCompileInputs.cache
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.csproj.CopyComplete
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.dll
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\refint\AppData.Application.dll
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\AppData.Application.pdb
+D:\Demos\AppData\AppData.Application\obj\Debug\net6.0\ref\AppData.Application.dll

@@ -1,0 +1,12 @@
+D:\Demos\AppData\AppData.Domain\bin\Debug\net6.0\AppData.Domain.deps.json
+D:\Demos\AppData\AppData.Domain\bin\Debug\net6.0\AppData.Domain.dll
+D:\Demos\AppData\AppData.Domain\bin\Debug\net6.0\AppData.Domain.pdb
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.csproj.AssemblyReference.cache
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.AssemblyInfoInputs.cache
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.AssemblyInfo.cs
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.csproj.CoreCompileInputs.cache
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.dll
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\refint\AppData.Domain.dll
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\AppData.Domain.pdb
+D:\Demos\AppData\AppData.Domain\obj\Debug\net6.0\ref\AppData.Domain.dll
